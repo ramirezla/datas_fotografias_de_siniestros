@@ -7,9 +7,9 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 6.jpg|Rayón|Parachoques trasero|Reparar
 7.jpg|Rotura|Parabrisas delantero|Reemplazar
 8.jpg|Rotura|Parabrisas delantero|Reemplazar
-9.jpg|Rotura|Parabrisas delantero|Reemplazar
 9.jpg|Deformación|Capó |Reparar
 9.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
+9.jpg|Rotura|Parabrisas delantero|Reemplazar
 9.jpg|Rotura|Faros derecho|Reemplazar
 9.jpg|Rotura|Luz indicadora delantera derecha|Reemplazar
 10.jpg|Rotura|Parabrisas delantero|Reemplazar
@@ -31,10 +31,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 20.jpg|Abolladura|Puerta delantera izquierda|Reparar
 20.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 20.jpg|Abolladura|Marco de las puertas|Reparar
-21.jpg|Rotura|Faros derecho|Reemplazar
-21.jpg|Desprendimiento|Parachoques delantero|Reemplazar
 21.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 21.jpg|Abolladura|Capó |Reparar
+21.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+21.jpg|Rotura|Faros derecho|Reemplazar
 22.jpg|Fractura|Parachoques delantero|Reparar
 23.jpg|Abolladura|Parachoques delantero|Reparar
 24.jpg|Rotura|Rueda |Reemplazar
@@ -45,12 +45,12 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 27.jpg|Rotura|Rueda |Reparar
 28.jpg|Rayón|Puerta delantera izquierda|Reparar
 28.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
-29.jpg|Rotura|Faros derecho|Reemplazar
 29.jpg|Deformación|Parachoques delantero|Reparar
-30.jpg|Rotura|Faros derecho|Reemplazar
-30.jpg|Fractura|Parachoques delantero|Reparar
-30.jpg|Deformación|Guardabarros delantero derecho |Reparar
+29.jpg|Rotura|Faros derecho|Reemplazar
 30.jpg|Abolladura|Capó |Reparar
+30.jpg|Deformación|Guardabarros delantero derecho |Reparar
+30.jpg|Fractura|Parachoques delantero|Reparar
+30.jpg|Rotura|Faros derecho|Reemplazar
 31.jpg|Rayón|Parachoques delantero|Reparar
 32.jpg|Rayón|Puerta delantera izquierda|Reparar
 32.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
@@ -63,23 +63,23 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 38.jpg|Rotura|Parabrisas trasero|Reemplazar
 39.jpg|Rayón|Parachoques delantero|Reparar
 40.jpg|Deformación|Marco de las puertas|Reparar
-41.jpg|Rotura|Faros derecho|Reemplazar
 41.jpg|Abolladura|Capó |Reparar
+41.jpg|Rotura|Faros derecho|Reemplazar
 42.jpg|Rayón|Parachoques delantero|Reparar
 43.jpg|Rayón|Parachoques delantero|Reparar
 44.jpg|Abolladura|Parachoques trasero|Reparar
 44.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 45.jpg|Abolladura|Puerta trasera izquierda|Reparar
-46.jpg|Rayón|Parachoques delantero|Reparar
 46.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+46.jpg|Rayón|Parachoques delantero|Reparar
 47.jpg|Rotura|Rueda |Reparar
 48.jpg|Rayón|Parachoques delantero|Reparar
 49.jpg|Rotura|Ventana trasera izquierda|Reemplazar
 50.jpg|Rotura|Parabrisas delantero|Reemplazar
 51.jpg|Rotura|Rueda |Reparar
 52.jpg|Abolladura|Parachoques delantero|Reparar
-53.jpg|Rotura|Faros derecho|Reemplazar
 53.jpg|Rayón|Parachoques delantero|Reparar
+53.jpg|Rotura|Faros derecho|Reemplazar
 54.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 55.jpg|Rotura|Parabrisas delantero|Reemplazar
 56.jpg|Abolladura|Parachoques trasero|Reparar
@@ -87,12 +87,12 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 57.jpg|Abolladura|Puerta trasera derecha|Reparar
 58.jpg|Rayón|Guardabarros delantero derecho |Reparar
 59.jpg|Rotura|Parabrisas delantero|Reemplazar
-60.jpg|Rotura|Espejo lateral izquierdo|Reemplazar
 60.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
-60.jpg|Rotura|Parachoques delantero|Reparar
 60.jpg|Deformación|Capó |Reparar
-61.jpg|Rotura|Parachoques delantero|Reparar
+60.jpg|Rotura|Espejo lateral izquierdo|Reemplazar
+60.jpg|Rotura|Parachoques delantero|Reparar
 61.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+61.jpg|Rotura|Parachoques delantero|Reparar
 62.jpg|Rotura|Faros derecho|Reemplazar
 63.jpg|Rayón|Parachoques delantero|Reparar
 64.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
@@ -106,8 +106,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 70.jpg|Rotura|Faros derecho|Reemplazar
 71.jpg|Rayón|Parachoques trasero|Reparar
 72.jpg|Abolladura|Guardabarros delantero derecho |Reparar
-73.jpg|Rotura|Parabrisas delantero|Reemplazar
 73.jpg|Abolladura|Capó |Reparar
+73.jpg|Rotura|Parabrisas delantero|Reemplazar
 74.jpg|Rayón|Parachoques trasero|Reparar
 75.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
 75.jpg|Desprendimiento|Parachoques delantero|Reparar
@@ -122,8 +122,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 81.jpg|Rayón|Parachoques trasero|Reparar
 82.jpg|Rotura|Parabrisas delantero|Reemplazar
 83.jpg|Abolladura|Parachoques trasero|Reparar
-84.jpg|Rotura|Rueda |Reparar
 84.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
+84.jpg|Rotura|Rueda |Reparar
 85.jpg|Desprendimiento|Parachoques delantero|Reparar
 86.jpg|Rayón|Parachoques delantero|Reparar
 87.jpg|Rayón|Guardabarros delantero derecho |Reparar
@@ -134,8 +134,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 90.jpg|Deformación|Maletero|Reparar
 90.jpg|Rotura|Luz trasera izquierdo|Reparar
 91.jpg|Rotura|Parabrisas delantero|Reemplazar
-92.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 92.jpg|Deformación|Parachoques trasero|Reparar
+92.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 93.jpg|Rayón|Puerta delantera izquierda|Reparar
 94.jpg|Rotura|Parabrisas delantero|Reemplazar
 95.jpg|Rotura|Parachoques delantero|Reparar
@@ -144,11 +144,11 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 97.jpg|Deformación|Capó |Reparar
 97.jpg|Fractura|Rejilla, parrilla|Reemplazar
 97.jpg|Rotura|Parachoques delantero|Reparar
-98.jpg|Rayón|Guardabarros delantero derecho |Reparar
 98.jpg|Abolladura|Puerta trasera derecha|Reparar
+98.jpg|Rayón|Guardabarros delantero derecho |Reparar
 99.jpg|Rotura|Parabrisas delantero|Reemplazar
-100.jpg|Rotura|Faros derecho|Reemplazar
 100.jpg|Deformación|Guardabarros delantero derecho |Reparar
+100.jpg|Rotura|Faros derecho|Reemplazar
 100.jpg|Rotura|Parachoques delantero|Reparar
 101.jpg|Abolladura|Parachoques delantero|Reparar
 102.jpg|Fractura|Parachoques trasero|Reparar
@@ -175,26 +175,26 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 116.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 116.jpg|Rotura|Parachoques trasero|Reemplazar
 117.jpg|Deformación|Guardabarros trasero derecho|Reparar
-117.jpg|Rotura|Luz trasera derecho|Reemplazar
 117.jpg|Desprendimiento|Parachoques trasero|Reparar
+117.jpg|Rotura|Luz trasera derecho|Reemplazar
 118.jpg|Rayón|Parachoques delantero|Reparar
 119.jpg|Rayón|Parachoques trasero|Reparar
-120.jpg|Rayón|Parachoques trasero|Reparar
 120.jpg|Abolladura|Guardabarros trasero derecho|Reparar
+120.jpg|Rayón|Parachoques trasero|Reparar
 121.jpg|Rotura|Faros izquierdo|Reemplazar
-122.jpg|Rotura|Faros derecho|Reemplazar
-122.jpg|Deformación|Capó |Reparar
 122.jpg|Abolladura|Parachoques delantero|Reparar
 122.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+122.jpg|Deformación|Capó |Reparar
+122.jpg|Rotura|Faros derecho|Reemplazar
 123.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 124.jpg|Rotura|Ventana delantera izquierda|Reemplazar
 125.jpg|Rotura|Ventana delantera derecha|Reemplazar
 126.jpg|Deformación|Capó |Reemplazar
 127.jpg|Rotura|Parabrisas delantero|Reemplazar
 128.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
-128.jpg|Rotura|Faros izquierdo|Reemplazar
 128.jpg|Abolladura|Parachoques delantero|Reparar
 128.jpg|Abolladura|Capó |Reparar
+128.jpg|Rotura|Faros izquierdo|Reemplazar
 129.jpg|Rotura|Parachoques delantero|Reparar
 130.jpg|Abolladura|Puerta delantera izquierda|Reparar
 130.jpg|Abolladura|Marco de las puertas|Reparar
@@ -202,19 +202,19 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 132.jpg|Abolladura|Parachoques trasero|Reparar
 133.jpg|Rayón|Parachoques trasero|Reparar
 134.jpg|Rayón|Parabrisas trasero|Reparar
-135.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 135.jpg|Abolladura|Parachoques trasero|Reparar
 135.jpg|Deformación|Guardabarros trasero izquierdo|Reparar
+135.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 136.jpg|Abolladura|Parachoques delantero|Reparar
 137.jpg|Rotura|Parachoques delantero|Reparar
 138.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 139.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 140.jpg|Rotura|Parabrisas delantero|Reemplazar
 141.jpg|Rotura|Parabrisas delantero|Reemplazar
-142.jpg|Rotura|Faros izquierdo|Reemplazar
-142.jpg|Fractura|Parachoques delantero|Reemplazar
 142.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 142.jpg|Abolladura|Capó |Reparar
+142.jpg|Fractura|Parachoques delantero|Reemplazar
+142.jpg|Rotura|Faros izquierdo|Reemplazar
 143.jpg|Rotura|Ventanilla trasera izquierda      |Reemplazar
 144.jpg|Rotura|Faros derecho|Reemplazar
 145.jpg|Rayón|Puerta trasera izquierda|Reparar
@@ -227,18 +227,18 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 151.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 152.jpg|Rayón|Puerta trasera izquierda|Reparar
 152.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
-153.jpg|Desprendimiento|Parachoques delantero|Reparar
-153.jpg|Deformación|Guardabarros delantero izquierdo |Reemplazar
 153.jpg|Abolladura|Capó |Reparar
+153.jpg|Deformación|Guardabarros delantero izquierdo |Reemplazar
+153.jpg|Desprendimiento|Parachoques delantero|Reparar
 153.jpg|Rotura|Faros izquierdo|Reemplazar
-154.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 154.jpg|Abolladura|Puerta delantera izquierda|Reparar
 154.jpg|Abolladura|Marco de las puertas|Reparar
+154.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 155.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 156.jpg|Rotura|Rueda |Reparar
 157.jpg|Rotura|Parabrisas delantero|Reemplazar
-158.jpg|Rotura|Faros derecho|Reemplazar
 158.jpg|Desprendimiento|Parachoques delantero|Reparar
+158.jpg|Rotura|Faros derecho|Reemplazar
 159.jpg|Rotura|Rueda |Reparar
 160.jpg|Rayón|Parachoques delantero|Reparar
 161.jpg|Abolladura|Puerta trasera derecha|Reparar
@@ -254,17 +254,17 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 170.jpg|Rotura|Parabrisas delantero|Reemplazar
 171.jpg|Rotura|Ventana delantera izquierda|Reemplazar
 172.jpg|Abolladura|Parachoques trasero|Reparar
+173.jpg|Deformación|Capó |Reemplazar
 173.jpg|Rotura|Parachoques delantero|Reemplazar
 173.jpg|Rotura|Faros izquierdo|Reemplazar
-173.jpg|Deformación|Capó |Reemplazar
 173.jpg|Rotura|Rejilla, parrilla|Reemplazar
-174.jpg|Rotura|Rueda |Reparar
 174.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 174.jpg|Rayón|Parachoques delantero|Reparar
+174.jpg|Rotura|Rueda |Reparar
 175.jpg|Rayón|Parachoques delantero|Reparar
+176.jpg|Deformación|Capó |Reemplazar
 176.jpg|Desprendimiento|Guardabarros delantero izquierdo |Reemplazar
 176.jpg|Desprendimiento|Parachoques delantero|Reemplazar
-176.jpg|Deformación|Capó |Reemplazar
 176.jpg|Desprendimiento|Rejilla, parrilla|Reemplazar
 177.jpg|Rayón|Parachoques trasero|Reparar
 178.jpg|Abolladura|Puerta trasera izquierda|Reparar
@@ -274,12 +274,12 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 179.jpg|Rayón|Parachoques delantero|Reparar
 180.jpg|Rotura|Faros izquierdo|Reemplazar
 181.jpg|Rotura|Parabrisas delantero|Reemplazar
-182.jpg|Rayón|Capó |Reparar
 182.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+182.jpg|Rayón|Capó |Reparar
 183.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 184.jpg|Rotura|Parabrisas delantero|Reemplazar
-185.jpg|Rayón|Parachoques delantero|Reparar
 185.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+185.jpg|Rayón|Parachoques delantero|Reparar
 186.jpg|Abolladura|Parachoques trasero|Reparar
 187.jpg|Fractura|Parachoques delantero|Reparar
 188.jpg|Rotura|Rueda |Reparar
@@ -289,12 +289,12 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 192.jpg|Abolladura|Parachoques trasero|Reparar
 193.jpg|Rayón|Parachoques delantero|Reparar
 194.jpg|Abolladura|Puerta delantera derecha|Reparar
-195.jpg|Rotura|Parabrisas delantero|Reemplazar
 195.jpg|Abolladura|Capó |Reparar
 195.jpg|Deformación|Techo |Reparar
+195.jpg|Rotura|Parabrisas delantero|Reemplazar
+196.jpg|Deformación|Capó |Reparar
 196.jpg|Fractura|Parachoques delantero|Reemplazar
 196.jpg|Fractura|Rejilla, parrilla|Reemplazar
-196.jpg|Deformación|Capó |Reparar
 197.jpg|Rotura|Parabrisas delantero|Reemplazar
 198.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 198.jpg|Abolladura|Parachoques delantero|Reparar
@@ -320,12 +320,12 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 216.jpg|Abolladura|Maletero|Reparar
 217.jpg|Rayón|Parachoques trasero|Reparar
 218.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+219.jpg|Abolladura|Puerta trasera izquierda|Reparar
 219.jpg|Deformación|Puerta delantera izquierda|Reemplazar
 219.jpg|Deformación|Marco de las puertas|Reparar
-219.jpg|Abolladura|Puerta trasera izquierda|Reparar
 220.jpg|Abolladura|Parachoques trasero|Reparar
-221.jpg|Rotura|Rueda |Reemplazar
 221.jpg|Desprendimiento|Guardabarros delantero izquierdo |Reemplazar
+221.jpg|Rotura|Rueda |Reemplazar
 222.jpg|Abolladura|Puerta delantera izquierda|Reparar
 223.jpg|Rayón|Puerta delantera derecha|Reparar
 224.jpg|Rotura|Parabrisas delantero|Reemplazar
@@ -333,9 +333,9 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 226.jpg|Rotura|Faros derecho|Reemplazar
 227.jpg|Rotura|Rueda |Reparar
 228.jpg|Rayón|Puerta delantera izquierda|Reparar
-229.jpg|Rotura|Rueda |Reparar
-229.jpg|Desprendimiento|Parachoques delantero|Reparar
 229.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+229.jpg|Desprendimiento|Parachoques delantero|Reparar
+229.jpg|Rotura|Rueda |Reparar
 230.jpg|Rotura|Faros izquierdo|Reemplazar
 231.jpg|Abolladura|Parachoques delantero|Reparar
 231.jpg|Abolladura|Guardabarros delantero derecho |Reparar
@@ -348,8 +348,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 238.jpg|Rayón|Guardabarros trasero derecho|Reparar
 239.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 239.jpg|Rotura|Faros izquierdo|Reemplazar
+240.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 240.jpg|Rotura|Rueda |Reparar
-240.jpg|Corrosión|Guardabarros trasero izquierdo|Reparar
 241.jpg|Abolladura|Parachoques delantero|Reparar
 241.jpg|Abolladura|Capó |Reparar
 241.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
@@ -360,11 +360,11 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 242.jpg|Abolladura|Marco de las puertas|Reparar
 243.jpg|Rotura|Ventana trasera derecha|Reemplazar
 244.jpg|Abolladura|Guardabarros delantero derecho |Reparar
-245.jpg|Rotura|Faros izquierdo|Reemplazar
 245.jpg|Abolladura|Parachoques delantero|Reparar
 245.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 245.jpg|Abolladura|Capó |Reparar
 245.jpg|Desprendimiento|Espejo lateral izquierdo|Reemplazar
+245.jpg|Rotura|Faros izquierdo|Reemplazar
 246.jpg|Rayón|Guardabarros delantero derecho |Reparar
 247.jpg|Rotura|Parabrisas delantero|Reemplazar
 248.jpg|Rayón|Parachoques delantero|Reparar
@@ -372,10 +372,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 249.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 250.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 250.jpg|Rayón|Parachoques delantero|Reparar
-251.jpg|Rotura|Faros derecho|Reemplazar
 251.jpg|Abolladura|Parachoques delantero|Reparar
 251.jpg|Abolladura|Capó |Reparar
 251.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+251.jpg|Rotura|Faros derecho|Reemplazar
 252.jpg|Abolladura|Puerta trasera izquierda|Reparar
 253.jpg|Rotura|Parachoques delantero|Reemplazar
 254.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
@@ -384,8 +384,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 256.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 257.jpg|Rayón|Parachoques delantero|Reparar
 258.jpg|Abolladura|Guardabarros trasero derecho|Reparar
-258.jpg|Rotura|Luz trasera derecho|Reemplazar
 258.jpg|Desprendimiento|Parachoques trasero|Reparar
+258.jpg|Rotura|Luz trasera derecho|Reemplazar
 259.jpg|Rotura|Rueda |Reparar
 260.jpg|Rotura|Parabrisas trasero|Reemplazar
 261.jpg|Abolladura|Puerta trasera izquierda|Reparar
@@ -410,9 +410,9 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 274.jpg|Rotura|Guardabarros delantero derecho |Reemplazar
 274.jpg|Rotura|Parachoques delantero|Reparar
 275.jpg|Rotura|Luz trasera izquierdo|Reemplazar
+276.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 276.jpg|Rotura|Faros izquierdo|Reemplazar
 276.jpg|Rotura|Parachoques delantero|Reemplazar
-276.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 277.jpg|Rayón|Parachoques delantero|Reparar
 278.jpg|Rotura|Parabrisas trasero|Reemplazar
 279.jpg|Fractura|Parachoques delantero|Reparar
@@ -427,13 +427,13 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 285.jpg|Abolladura|Parachoques trasero|Reparar
 286.jpg|Rotura|Parabrisas delantero|Reemplazar
 287.jpg|Rotura|Rueda |Reemplazar
-288.jpg|Fractura|Parachoques delantero|Reparar
 288.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+288.jpg|Fractura|Parachoques delantero|Reparar
 289.jpg|Rayón|Parachoques delantero|Reparar
 290.jpg|Rayón|Parachoques delantero|Reparar
 291.jpg|Rayón|Parachoques delantero|Reparar
-292.jpg|Rayón|Parachoques delantero|Reparar
 292.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+292.jpg|Rayón|Parachoques delantero|Reparar
 293.jpg|Abolladura|Parachoques delantero|Reparar
 293.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 294.jpg|Rotura|Rueda |Reparar
@@ -459,8 +459,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 312.jpg|Abolladura|Parachoques trasero|Reparar
 313.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 313.jpg|Rayón|Puerta delantera izquierda|Reparar
-314.jpg|Deformación|Puerta delantera izquierda|Reparar
 314.jpg|Abolladura|Puerta trasera izquierda|Reparar
+314.jpg|Deformación|Puerta delantera izquierda|Reparar
 315.jpg|Abolladura|Puerta delantera izquierda|Reparar
 315.jpg|Abolladura|Puerta trasera izquierda|Reparar
 316.jpg|Abolladura|Puerta delantera izquierda|Reparar
@@ -470,21 +470,21 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 317.jpg|Desprendimiento|Luz indicadora delantera izquierda|Reemplazar
 318.jpg|Fractura|Parachoques trasero|Reparar
 319.jpg|Abolladura|Parachoques delantero|Reparar
-320.jpg|Rotura|Faros izquierdo|Reemplazar
-320.jpg|Desprendimiento|Parachoques delantero|Reparar
 320.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
-321.jpg|Rotura|Ventana trasera izquierda|Reemplazar
-321.jpg|Rotura|Ventanilla trasera izquierda      |Reemplazar
+320.jpg|Desprendimiento|Parachoques delantero|Reparar
+320.jpg|Rotura|Faros izquierdo|Reemplazar
 321.jpg|Abolladura|Puerta delantera izquierda|Reparar
 321.jpg|Desprendimiento|Rueda |Reemplazar
-322.jpg|Rotura|Rueda |Reparar
+321.jpg|Rotura|Ventana trasera izquierda|Reemplazar
+321.jpg|Rotura|Ventanilla trasera izquierda      |Reemplazar
 322.jpg|Rayón|Parachoques delantero|Reparar
+322.jpg|Rotura|Rueda |Reparar
 323.jpg|Abolladura|Parachoques trasero|Reparar
 324.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 325.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
 325.jpg|Rotura|Parachoques delantero|Reparar
-326.jpg|Rotura|Luz trasera derecho|Reemplazar
 326.jpg|Rayón|Guardabarros trasero derecho|Reparar
+326.jpg|Rotura|Luz trasera derecho|Reemplazar
 327.jpg|Abolladura|Puerta delantera derecha|Reparar
 327.jpg|Abolladura|Marco de las puertas|Reparar
 327.jpg|Abolladura|Guardabarros trasero derecho|Reparar
@@ -497,16 +497,16 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 332.jpg|Abolladura|Marco de las puertas|Reparar
 333.jpg|Abolladura|Parachoques trasero|Reparar
 333.jpg|Abolladura|Maletero|Reparar
-334.jpg|Rotura|Faros derecho|Reemplazar
 334.jpg|Abolladura|Parachoques delantero|Reparar
+334.jpg|Rotura|Faros derecho|Reemplazar
 335.jpg|Rayón|Parachoques trasero|Reparar
 336.jpg|Rotura|Parachoques trasero|Reemplazar
 337.jpg|Rotura|Parabrisas trasero|Reemplazar
-338.jpg|Deformación|Puerta delantera derecha|Reparar
 338.jpg|Abolladura|Marco de las puertas|Reparar
+338.jpg|Deformación|Puerta delantera derecha|Reparar
+339.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 339.jpg|Deformación|Parachoques trasero|Reemplazar
 339.jpg|Rotura|Luz trasera derecho|Reemplazar
-339.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 340.jpg|Rotura|Luz trasera derecho|Reemplazar
 341.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 342.jpg|Rotura|Rueda |Reparar
@@ -514,8 +514,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 344.jpg|Rayón|Parachoques delantero|Reparar
 345.jpg|Abolladura|Puerta trasera izquierda|Reparar
 345.jpg|Abolladura|Marco de las puertas|Reparar
-346.jpg|Rotura|Guardabarros delantero izquierdo |Reemplazar
 346.jpg|Abolladura|Parachoques delantero|Reparar
+346.jpg|Rotura|Guardabarros delantero izquierdo |Reemplazar
 347.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 348.jpg|Abolladura|Guardabarros delantero izquierdo |Reemplazar
 349.jpg|Abolladura|Parachoques trasero|Reparar
@@ -535,43 +535,43 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 360.jpg|Rayón|Parachoques trasero|Reparar
 361.jpg|Rayón|Parachoques delantero|Reparar
 362.jpg|Rayón|Parachoques trasero|Reparar
-363.jpg|Deformación|Parachoques delantero|Reemplazar
 363.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+363.jpg|Deformación|Parachoques delantero|Reemplazar
 363.jpg|Desprendimiento|Rueda |Reemplazar
 364.jpg|Rayón|Parachoques delantero|Reparar
 365.jpg|Rayón|Parachoques trasero|Reparar
-366.jpg|Deformación|Puerta delantera derecha|Reemplazar
 366.jpg|Abolladura|Puerta trasera derecha|Reparar
 366.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+366.jpg|Deformación|Puerta delantera derecha|Reemplazar
 367.jpg|Abolladura|Puerta delantera izquierda|Reparar
-368.jpg|Rotura|Faros derecho|Reemplazar
 368.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 368.jpg|Abolladura|Capó |Reparar
 368.jpg|Rayón|Parachoques delantero|Reparar
+368.jpg|Rotura|Faros derecho|Reemplazar
 369.jpg|Abolladura|Parachoques delantero|Reparar
-369.jpg|Rotura|Faros izquierdo|Reemplazar
 369.jpg|Abolladura|Capó |Reparar
-370.jpg|Rayón|Maletero|Reparar
+369.jpg|Rotura|Faros izquierdo|Reemplazar
 370.jpg|Fractura|Parachoques trasero|Reparar
+370.jpg|Rayón|Maletero|Reparar
 371.jpg|Rayón|Parachoques trasero|Reparar
 372.jpg|Rotura|Rueda |Reparar
 373.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 374.jpg|Abolladura|Parachoques trasero|Reparar
-374.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 374.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+374.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 375.jpg|Rotura|Parabrisas delantero|Reemplazar
-376.jpg|Fractura|Parachoques delantero|Reparar
 376.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+376.jpg|Fractura|Parachoques delantero|Reparar
 377.jpg|Fractura|Parachoques trasero|Reparar
 378.jpg|Rayón|Guardabarros trasero derecho|Reparar
 378.jpg|Rayón|Puerta trasera derecha|Reparar
-379.jpg|Rotura|Faros derecho|Reemplazar
 379.jpg|Abolladura|Parachoques delantero|Reparar
 379.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+379.jpg|Rotura|Faros derecho|Reemplazar
 380.jpg|Abolladura|Parachoques delantero|Reparar
-380.jpg|Rotura|Faros izquierdo|Reemplazar
 380.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 380.jpg|Abolladura|Capó |Reparar
+380.jpg|Rotura|Faros izquierdo|Reemplazar
 381.jpg|Rayón|Puerta trasera derecha|Reparar
 381.jpg|Rayón|Puerta delantera derecha|Reparar
 381.jpg|Rayón|Guardabarros trasero derecho|Reparar
@@ -581,8 +581,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 385.jpg|Rotura|Parabrisas delantero|Reemplazar
 386.jpg|Rotura|Faros izquierdo|Reemplazar
 387.jpg|Abolladura|Parachoques trasero|Reparar
-388.jpg|Rotura|Luz trasera derecho|Reemplazar
 388.jpg|Rayón|Parachoques trasero|Reparar
+388.jpg|Rotura|Luz trasera derecho|Reemplazar
 389.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 390.jpg|Abolladura|Capó |Reparar
 391.jpg|Fractura|Parachoques trasero|Reparar
@@ -596,10 +596,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 396.jpg|Deformación|Parachoques trasero|Reparar
 396.jpg|Deformación|Maletero|Reparar
 397.jpg|Rotura|Parabrisas delantero|Reemplazar
-398.jpg|Rotura|Faros izquierdo|Reemplazar
 398.jpg|Abolladura|Parachoques delantero|Reparar
 398.jpg|Abolladura|Capó |Reparar
 398.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+398.jpg|Rotura|Faros izquierdo|Reemplazar
 399.jpg|Rotura|Parabrisas delantero|Reemplazar
 400.jpg|Rotura|Parabrisas delantero|Reemplazar
 401.jpg|Rotura|Rueda |Reparar
@@ -610,40 +610,40 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 404.jpg|Abolladura|Puerta trasera izquierda|Reparar
 405.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 405.jpg|Rayón|Puerta trasera derecha|Reparar
-406.jpg|Rotura|Luz trasera derecho|Reemplazar
 406.jpg|Abolladura|Parachoques trasero|Reparar
-407.jpg|Rotura|Parachoques trasero|Reparar
+406.jpg|Rotura|Luz trasera derecho|Reemplazar
 407.jpg|Abolladura|Maletero|Reparar
+407.jpg|Rotura|Parachoques trasero|Reparar
 408.jpg|Rotura|Rueda |Reparar
+409.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 409.jpg|Rotura|Parachoques delantero|Reparar
 409.jpg|Rotura|Faros derecho|Reemplazar
-409.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
-410.jpg|Rayón|Parachoques delantero|Reparar
 410.jpg|Desprendimiento|Guardabarros delantero derecho |Reparar
+410.jpg|Rayón|Parachoques delantero|Reparar
 411.jpg|Rayón|Parachoques delantero|Reparar
 412.jpg|Rotura|Parabrisas delantero|Reemplazar
 413.jpg|Rotura|Parabrisas delantero|Reemplazar
 414.jpg|Abolladura|Puerta trasera izquierda|Reparar
 414.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+415.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 415.jpg|Rotura|Faros derecho|Reemplazar
 415.jpg|Rotura|Parachoques delantero|Reparar
-415.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 416.jpg|Rotura|Parabrisas delantero|Reemplazar
 417.jpg|Rotura|Parabrisas delantero|Reemplazar
 418.jpg|Rotura|Parabrisas delantero|Reemplazar
 419.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 419.jpg|Abolladura|Puerta trasera izquierda|Reparar
 419.jpg|Abolladura|Marco de las puertas|Reparar
-420.jpg|Rotura|Luz trasera derecho|Reemplazar
 420.jpg|Rayón|Parachoques trasero|Reparar
+420.jpg|Rotura|Luz trasera derecho|Reemplazar
 421.jpg|Rotura|Parachoques trasero|Reparar
 422.jpg|Abolladura|Puerta trasera derecha|Reparar
 422.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 423.jpg|Fractura|Parachoques trasero|Reparar
 424.jpg|Rotura|Rueda |Reparar
 425.jpg|Rotura|Parabrisas delantero|Reemplazar
-426.jpg|Rayón|Parachoques delantero|Reparar
 426.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+426.jpg|Rayón|Parachoques delantero|Reparar
 427.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 428.jpg|Desprendimiento|Parachoques delantero|Reparar
 429.jpg|Rotura|Rueda |Reparar
@@ -654,8 +654,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 433.jpg|Rotura|Ventana trasera derecha|Reemplazar
 434.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 435.jpg|Rayón|Parachoques delantero|Reparar
-436.jpg|Rotura|Parabrisas delantero|Reemplazar
 436.jpg|Abolladura|Capó |Reparar
+436.jpg|Rotura|Parabrisas delantero|Reemplazar
 436.jpg|Rotura|Espejo lateral derecho|Reemplazar
 437.jpg|Deformación|Guardabarros delantero derecho |Reparar
 438.jpg|Abolladura|Guardabarros trasero derecho|Reparar
@@ -666,11 +666,11 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 441.jpg|Abolladura|Puerta trasera derecha|Reparar
 441.jpg|Abolladura|Puerta delantera derecha|Reparar
 441.jpg|Abolladura|Marco de las puertas|Reparar
+442.jpg|Abolladura|Capó |Reparar
 442.jpg|Desprendimiento|Parachoques delantero|Reparar
 442.jpg|Rotura|Faros derecho|Reemplazar
-442.jpg|Abolladura|Capó |Reparar
-443.jpg|Rotura|Rueda |Reparar
 443.jpg|Rayón|Parachoques delantero|Reparar
+443.jpg|Rotura|Rueda |Reparar
 444.jpg|Rayón|Parachoques delantero|Reparar
 445.jpg|Rotura|Faros izquierdo|Reemplazar
 446.jpg|Abolladura|Puerta trasera derecha|Reparar
@@ -684,14 +684,14 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 452.jpg|Rayón|Parachoques delantero|Reparar
 453.jpg|Rayón|Parachoques delantero|Reparar
 454.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
-454.jpg|Rotura|Faros izquierdo|Reemplazar
 454.jpg|Abolladura|Capó |Reparar
+454.jpg|Rotura|Faros izquierdo|Reemplazar
 455.jpg|Rotura|Parabrisas delantero|Reemplazar
 456.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 456.jpg|Rayón|Puerta delantera izquierda|Reparar
-457.jpg|Rotura|Rueda |Reparar
 457.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 457.jpg|Abolladura|Puerta delantera derecha|Reparar
+457.jpg|Rotura|Rueda |Reparar
 458.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 458.jpg|Abolladura|Puerta trasera izquierda|Reparar
 458.jpg|Abolladura|Marco de las puertas|Reparar
@@ -700,10 +700,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 460.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 460.jpg|Deformación|Puerta delantera derecha|Reemplazar
 460.jpg|Rotura|Faros derecho|Reemplazar
-461.jpg|Rotura|Faros izquierdo|Reemplazar
 461.jpg|Abolladura|Parachoques delantero|Reparar
-461.jpg|Rotura|Rejilla, parrilla|Reemplazar
 461.jpg|Abolladura|Capó |Reparar
+461.jpg|Rotura|Faros izquierdo|Reemplazar
+461.jpg|Rotura|Rejilla, parrilla|Reemplazar
 462.jpg|Rotura|Faros derecho|Reemplazar
 463.jpg|Abolladura|Parachoques trasero|Reparar
 464.jpg|Rotura|Parabrisas delantero|Reemplazar
@@ -741,10 +741,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 487.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 488.jpg|Abolladura|Maletero|Reparar
 489.jpg|Rotura|Parabrisas trasero|Reemplazar
-490.jpg|Deformación|Maletero|Reparar
-490.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 490.jpg|Abolladura|Parachoques trasero|Reparar
 490.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+490.jpg|Deformación|Maletero|Reparar
+490.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 491.jpg|Rotura|Luz trasera derecho|Reemplazar
 492.jpg|Abolladura|Puerta delantera derecha|Reparar
 492.jpg|Deformación|Guardabarros delantero derecho |Reparar
@@ -757,10 +757,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 499.jpg|Abolladura|Parachoques trasero|Reparar
 500.jpg|Rotura|Luz trasera izquierdo|Reparar
 501.jpg|Abolladura|Guardabarros delantero derecho |Reparar
-501.jpg|Rotura|Luz indicadora delantera derecha|Reemplazar
 501.jpg|Abolladura|Faros derecho|Reemplazar
-501.jpg|Rayón|Parachoques delantero|Reparar
 501.jpg|Abolladura|Capó |Reparar
+501.jpg|Rayón|Parachoques delantero|Reparar
+501.jpg|Rotura|Luz indicadora delantera derecha|Reemplazar
 502.jpg|Rayón|Parachoques trasero|Reparar
 503.jpg|Rotura|Faros izquierdo|Reemplazar
 504.jpg|Rotura|Faros derecho|Reemplazar
@@ -768,10 +768,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 506.jpg|Desprendimiento|Parachoques trasero|Reparar
 506.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 507.jpg|Rotura|Faros derecho|Reemplazar
-508.jpg|Rotura|Faros izquierdo|Reemplazar
 508.jpg|Abolladura|Parachoques delantero|Reparar
 508.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 508.jpg|Abolladura|Capó |Reparar
+508.jpg|Rotura|Faros izquierdo|Reemplazar
 509.jpg|Rotura|Parabrisas delantero|Reemplazar
 510.jpg|Abolladura|Capó |Reparar
 510.jpg|Rotura|Rejilla, parrilla|Reemplazar
@@ -780,28 +780,28 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 512.jpg|Rotura|Rueda |Reparar
 513.jpg|Abolladura|Capó |Reparar
 514.jpg|Abolladura|Parachoques trasero|Reparar
-515.jpg|Rotura|Faros derecho|Reemplazar
-515.jpg|Fractura|Parachoques delantero|Reparar
 515.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 515.jpg|Abolladura|Capó |Reparar
+515.jpg|Fractura|Parachoques delantero|Reparar
+515.jpg|Rotura|Faros derecho|Reemplazar
 516.jpg|Rotura|Parabrisas delantero|Reemplazar
 517.jpg|Rayón|Puerta trasera izquierda|Reparar
 517.jpg|Rayón|Puerta delantera izquierda|Reparar
 517.jpg|Rayón|Marco de las puertas|Reparar
 518.jpg|Rayón|Parachoques trasero|Reparar
 519.jpg|Rayón|Parachoques delantero|Reparar
-520.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 520.jpg|Fractura|Guardabarros trasero izquierdo|Reparar
+520.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 521.jpg|Rotura|Rueda |Reparar
-522.jpg|Rayón|Parachoques delantero|Reparar
 522.jpg|Desprendimiento|Parachoques delantero|Reparar
+522.jpg|Rayón|Parachoques delantero|Reparar
 522.jpg|Rotura|Rueda |Reparar
-523.jpg|Rayón|Puerta delantera izquierda|Reparar
 523.jpg|Abolladura|Marco de las puertas|Reparar
+523.jpg|Rayón|Puerta delantera izquierda|Reparar
 524.jpg|Rotura|Rueda |Reparar
 525.jpg|Rayón|Parachoques delantero|Reparar
-526.jpg|Rotura|Puerta trasera derecha|Reemplazar
 526.jpg|Rayón|Marco de las puertas|Reparar
+526.jpg|Rotura|Puerta trasera derecha|Reemplazar
 526.jpg|Rotura|Puerta delantera derecha|Reparar
 527.jpg|Abolladura|Parachoques trasero|Reparar
 527.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
@@ -809,16 +809,16 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 528.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 528.jpg|Rotura|Faros izquierdo|Reemplazar
 529.jpg|Abolladura|Puerta delantera izquierda|Reparar
-529.jpg|Deformación|Marco de las puertas|Reparar
 529.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+529.jpg|Deformación|Marco de las puertas|Reparar
 530.jpg|Abolladura|Puerta trasera izquierda|Reparar
 530.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 531.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 532.jpg|Abolladura|Parachoques delantero|Reparar
-533.jpg|Rotura|Faros izquierdo|Reemplazar
-533.jpg|Rotura|Parachoques delantero|Reemplazar
 533.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 533.jpg|Abolladura|Capó |Reparar
+533.jpg|Rotura|Faros izquierdo|Reemplazar
+533.jpg|Rotura|Parachoques delantero|Reemplazar
 534.jpg|Rayón|Parachoques delantero|Reparar
 534.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 535.jpg|Rayón|Parachoques delantero|Reparar
@@ -828,8 +828,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 537.jpg|Rotura|Faros derecho|Reemplazar
 537.jpg|Rotura|Parachoques delantero|Reparar
 538.jpg|Abolladura|Parachoques delantero|Reparar
-538.jpg|Rotura|Luz indicadora delantera derecha|Reemplazar
 538.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+538.jpg|Rotura|Luz indicadora delantera derecha|Reemplazar
 539.jpg|Rotura|Parabrisas delantero|Reemplazar
 540.jpg|Rayón|Parachoques delantero|Reparar
 541.jpg|Rayón|Parachoques delantero|Reparar
@@ -847,28 +847,28 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 549.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 550.jpg|Fractura|Parachoques trasero|Reparar
 551.jpg|Desprendimiento|Parachoques delantero|Reparar
-552.jpg|Rotura|Parabrisas delantero|Reemplazar
 552.jpg|Deformación|Capó |Reparar
+552.jpg|Rotura|Parabrisas delantero|Reemplazar
 553.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 554.jpg|Rayón|Parachoques delantero|Reparar
-555.jpg|Rotura|Rueda |Reemplazar
 555.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 555.jpg|Deformación|Parachoques delantero|Reparar
+555.jpg|Rotura|Rueda |Reemplazar
 556.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 556.jpg|Rayón|Puerta trasera izquierda|Reparar
 557.jpg|Rayón|Parachoques delantero|Reparar
+558.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+558.jpg|Abolladura|Parachoques delantero|Reparar
+558.jpg|Abolladura|Puerta delantera izquierda|Reparar
 558.jpg|Rotura|Rueda |Reparar
-558.jpg|Corrosión|Guardabarros delantero izquierdo |Reparar
-558.jpg|Corrosión|Parachoques delantero|Reparar
-558.jpg|Corrosión|Puerta delantera izquierda|Reparar
 559.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 559.jpg|Rayón|Parachoques delantero|Reparar
 560.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
-561.jpg|Rotura|Parabrisas delantero|Reemplazar
 561.jpg|Deformación|Capó |Reemplazar
-562.jpg|Rotura|Rueda |Reparar
+561.jpg|Rotura|Parabrisas delantero|Reemplazar
 562.jpg|Rayón|Marco de las puertas|Reparar
 562.jpg|Rayón|Puerta trasera derecha|Reparar
+562.jpg|Rotura|Rueda |Reparar
 563.jpg|Rotura|Parabrisas delantero|Reemplazar
 564.jpg|Rotura|Parabrisas delantero|Reemplazar
 565.jpg|Rayón|Parachoques delantero|Reparar
@@ -878,12 +878,12 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 569.jpg|Rayón|Parachoques trasero|Reparar
 569.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 570.jpg|Rotura|Parabrisas trasero|Reemplazar
-571.jpg|Rotura|Parabrisas delantero|Reemplazar
 571.jpg|Abolladura|Marco de las puertas|Reparar
-572.jpg|Rotura|Parachoques delantero|Reemplazar
-572.jpg|Rotura|Faros izquierdo|Reemplazar
+571.jpg|Rotura|Parabrisas delantero|Reemplazar
 572.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 572.jpg|Abolladura|Capó |Reparar
+572.jpg|Rotura|Parachoques delantero|Reemplazar
+572.jpg|Rotura|Faros izquierdo|Reemplazar
 573.jpg|Rayón|Parachoques delantero|Reparar
 574.jpg|Rayón|Parachoques delantero|Reparar
 575.jpg|Rayón|Parachoques trasero|Reparar
@@ -895,17 +895,17 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 580.jpg|Rayón|Guardabarros trasero derecho|Reparar
 580.jpg|Rayón|Puerta trasera derecha|Reparar
 581.jpg|Abolladura|Parachoques delantero|Reparar
-582.jpg|Deformación|Puerta delantera izquierda|Reemplazar
 582.jpg|Abolladura|Marco de las puertas|Reparar
-583.jpg|Rotura|Faros izquierdo|Reemplazar
+582.jpg|Deformación|Puerta delantera izquierda|Reemplazar
 583.jpg|Abolladura|Capó |Reparar
 583.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
-584.jpg|Rayón|Capó |Reparar
+583.jpg|Rotura|Faros izquierdo|Reemplazar
 584.jpg|Desprendimiento|Guardabarros delantero izquierdo |Reemplazar
+584.jpg|Rayón|Capó |Reparar
 584.jpg|Rotura|Parabrisas delantero|Reemplazar
 585.jpg|Desprendimiento|Parachoques delantero|Reparar
-586.jpg|Rotura|Faros derecho|Reemplazar
 586.jpg|Abolladura|Parachoques delantero|Reparar
+586.jpg|Rotura|Faros derecho|Reemplazar
 587.jpg|Rayón|Parachoques trasero|Reparar
 588.jpg|Abolladura|Maletero|Reparar
 589.jpg|Rotura|Parachoques delantero|Reparar
@@ -921,18 +921,18 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 595.jpg|Rotura|Ventana trasera izquierda|Reemplazar
 596.jpg|Abolladura|Parachoques trasero|Reparar
 596.jpg|Rotura|Luz trasera izquierdo|Reemplazar
-597.jpg|Rayón|Puerta delantera izquierda|Reparar
 597.jpg|Desprendimiento|Moldura puerta delantera izquierda|Reemplazar
-598.jpg|Rotura|Parabrisas delantero|Reemplazar
+597.jpg|Rayón|Puerta delantera izquierda|Reparar
 598.jpg|Abolladura|Techo |Reparar
-598.jpg|Abolladura|Brazo del techo     |Reparar
+598.jpg|Abolladura|Marco de las puertas|Reparar
+598.jpg|Rotura|Parabrisas delantero|Reemplazar
 599.jpg|Rayón|Parachoques delantero|Reparar
 600.jpg|Rayón|Guardabarros trasero derecho|Reparar
 601.jpg|Rotura|Parabrisas delantero|Reemplazar
 602.jpg|Deformación|Parachoques delantero|Reemplazar
-602.jpg|Rotura|Faros derecho|Reemplazar
 602.jpg|Deformación|Guardabarros delantero derecho |Reparar
 602.jpg|Deformación|Capó |Reparar
+602.jpg|Rotura|Faros derecho|Reemplazar
 603.jpg|Rotura|Rueda |Reparar
 604.jpg|Abolladura|Parachoques delantero|Reparar
 605.jpg|Abolladura|Parachoques trasero|Reparar
@@ -962,33 +962,33 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 623.jpg|Rotura|Parabrisas delantero|Reemplazar
 624.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 624.jpg|Abolladura|Parachoques trasero|Reparar
-625.jpg|Desprendimiento|Guardabarros delantero derecho |Reemplazar
-625.jpg|Rotura|Faros derecho|Reemplazar
 625.jpg|Abolladura|Parachoques delantero|Reparar
 625.jpg|Abolladura|Capó |Reparar
+625.jpg|Desprendimiento|Guardabarros delantero derecho |Reemplazar
+625.jpg|Rotura|Faros derecho|Reemplazar
 626.jpg|Rayón|Parachoques delantero|Reparar
-627.jpg|Rotura|Parabrisas delantero|Reemplazar
 627.jpg|Desprendimiento|Espejo lateral derecho|Reemplazar
+627.jpg|Rotura|Parabrisas delantero|Reemplazar
 628.jpg|Rayón|Parachoques trasero|Reparar
-629.jpg|Rotura|Faros derecho|Reemplazar
 629.jpg|Deformación|Guardabarros delantero derecho |Reparar
 629.jpg|Rayón|Parachoques delantero|Reparar
+629.jpg|Rotura|Faros derecho|Reemplazar
 630.jpg|Rotura|Parabrisas delantero|Reemplazar
 631.jpg|Rayón|Parachoques trasero|Reparar
+632.jpg|Abolladura|Maletero|Reparar
 632.jpg|Rotura|Parachoques trasero|Reparar
 632.jpg|Rotura|Luz trasera izquierdo|Reemplazar
-632.jpg|Abolladura|Maletero|Reparar
-633.jpg|Rotura|Rueda |Reemplazar
 633.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+633.jpg|Rotura|Rueda |Reemplazar
 634.jpg|Rotura|Rueda |Reparar
 635.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 636.jpg|Rayón|Parachoques trasero|Reparar
 637.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
+638.jpg|Abolladura|Maletero|Reparar
 638.jpg|Desprendimiento|Parachoques trasero|Reemplazar
 638.jpg|Desprendimiento|Guardabarros trasero derecho|Reemplazar
 638.jpg|Rotura|Luz trasera derecho|Reemplazar
 638.jpg|Rotura|Rueda |Reparar
-638.jpg|Abolladura|Maletero|Reparar
 639.jpg|Rotura|Parachoques delantero|Reparar
 640.jpg|Rayón|Parachoques trasero|Reparar
 641.jpg|Rotura|Ventanilla trasera derecha      |Reemplazar
@@ -1011,9 +1011,9 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 650.jpg|Rotura|Parabrisas delantero|Reemplazar
 650.jpg|Rotura|Faros izquierdo|Reemplazar
 650.jpg|Rotura|Antiniebla delantero izquierdo|Reemplazar
-651.jpg|Rotura|Faros izquierdo|Reemplazar
 651.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 651.jpg|Rayón|Parachoques delantero|Reparar
+651.jpg|Rotura|Faros izquierdo|Reemplazar
 652.jpg|Rotura|Rueda |Reparar
 653.jpg|Abolladura|Puerta trasera derecha|Reparar
 654.jpg|Rayón|Parachoques trasero|Reparar
@@ -1029,16 +1029,16 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 659.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 659.jpg|Desprendimiento|Parachoques trasero|Reparar
 660.jpg|Rayón|Puerta delantera derecha|Reparar
-661.jpg|Rotura|Rueda |Reemplazar
 661.jpg|Desprendimiento|Guardabarros delantero derecho |Reemplazar
+661.jpg|Rotura|Rueda |Reemplazar
 662.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 663.jpg|Deformación|Capó |Reparar
-663.jpg|Rotura|Faros derecho|Reemplazar
 663.jpg|Rayón|Rejilla, parrilla|Reparar
+663.jpg|Rotura|Faros derecho|Reemplazar
 664.jpg|Rayón|Parachoques delantero|Reparar
 664.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
-665.jpg|Rotura|Parabrisas delantero|Reemplazar
 665.jpg|Desprendimiento|Espejo lateral izquierdo|Reemplazar
+665.jpg|Rotura|Parabrisas delantero|Reemplazar
 666.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 667.jpg|Rayón|Parachoques delantero|Reparar
 668.jpg|Rotura|Parabrisas delantero|Reemplazar
@@ -1047,10 +1047,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 671.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 671.jpg|Rayón|Parachoques delantero|Reparar
 672.jpg|Abolladura|Parachoques delantero|Reparar
-673.jpg|Rotura|Faros derecho|Reemplazar
 673.jpg|Abolladura|Parachoques delantero|Reparar
-673.jpg|Rotura|Rejilla, parrilla|Reemplazar
 673.jpg|Deformación|Capó |Reparar
+673.jpg|Rotura|Faros derecho|Reemplazar
+673.jpg|Rotura|Rejilla, parrilla|Reemplazar
 674.jpg|Rotura|Parabrisas delantero|Reemplazar
 675.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 675.jpg|Abolladura|Parachoques delantero|Reparar
@@ -1063,10 +1063,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 677.jpg|Desprendimiento|Moldura puerta delantera izquierda|Reemplazar
 678.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 679.jpg|Rotura|Parabrisas trasero|Reemplazar
+680.jpg|Abolladura|Capó |Reparar
 680.jpg|Rotura|Guardabarros delantero izquierdo |Reemplazar
 680.jpg|Rotura|Faros izquierdo|Reemplazar
 680.jpg|Rotura|Parachoques delantero|Reemplazar
-680.jpg|Abolladura|Capó |Reparar
 680.jpg|Rotura|Guardabarros delantero izquierdo |Reemplazar
 681.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 682.jpg|Abolladura|Guardabarros trasero derecho|Reparar
@@ -1080,8 +1080,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 687.jpg|Rayón|Puerta trasera derecha|Reparar
 688.jpg|Deformación|Parachoques trasero|Reemplazar
 688.jpg|Deformación|Guardabarros trasero derecho|Reemplazar
-688.jpg|Rotura|Luz trasera derecho|Reemplazar
 688.jpg|Deformación|Maletero|Reemplazar
+688.jpg|Rotura|Luz trasera derecho|Reemplazar
 688.jpg|Rotura|Parabrisas trasero|Reemplazar
 689.jpg|Rayón|Parachoques delantero|Reparar
 690.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
@@ -1093,8 +1093,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 695.jpg|Rotura|Parabrisas delantero|Reemplazar
 696.jpg|Rayón|Guardabarros trasero derecho|Reparar
 697.jpg|Rayón|Parachoques delantero|Reparar
-698.jpg|Rotura|Luz trasera derecho|Reparar
 698.jpg|Abolladura|Guardabarros trasero derecho|Reparar
+698.jpg|Rotura|Luz trasera derecho|Reparar
 699.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 700.jpg|Rayón|Parachoques delantero|Reparar
 701.jpg|Rayón|Parachoques delantero|Reparar
@@ -1121,10 +1121,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 713.jpg|Fractura|Faros izquierdo|Reemplazar
 714.jpg|Fractura|Luz trasera izquierdo|Reemplazar
 714.jpg|Rayón|Parachoques trasero|Reparar
-715.jpg|Fractura|Faros derecho|Reemplazar
-715.jpg|Fractura|Luz indicadora delantera derecha|Reemplazar
 715.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 715.jpg|Abolladura|Capó |Reparar
+715.jpg|Fractura|Faros derecho|Reemplazar
+715.jpg|Fractura|Luz indicadora delantera derecha|Reemplazar
 715.jpg|Rotura|Rejilla, parrilla|Reemplazar
 716.jpg|Rayón|Parachoques trasero|Reparar
 717.jpg|Fractura|Parachoques trasero|Reparar
@@ -1134,8 +1134,8 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 719.jpg|Rotura|Parabrisas trasero|Reemplazar
 720.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 721.jpg|Rayón|Parachoques delantero|Reparar
-722.jpg|Rotura|Faros izquierdo|Reemplazar
 722.jpg|Abolladura|Parachoques delantero|Reparar
+722.jpg|Rotura|Faros izquierdo|Reemplazar
 723.jpg|Rotura|Parabrisas delantero|Reemplazar
 724.jpg|Rayón|Parachoques delantero|Reparar
 724.jpg|Rotura|Antiniebla delantero izquierdo|Reemplazar
@@ -1150,47 +1150,47 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 732.jpg|Rotura|Rueda |Reparar
 733.jpg|Rotura|Parabrisas delantero|Reemplazar
 734.jpg|Rayón|Parachoques trasero|Reparar
-735.jpg|Deformación|Parachoques trasero|Reparar
 735.jpg|Abolladura|Maletero|Reparar
+735.jpg|Deformación|Parachoques trasero|Reparar
 736.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 737.jpg|Abolladura|Parachoques trasero|Reparar
 738.jpg|Rotura|Rueda |Reparar
 739.jpg|Rotura|Parabrisas delantero|Reemplazar
 740.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 741.jpg|Abolladura|Parachoques trasero|Reparar
-741.jpg|Rotura|Luz trasera derecho|Reemplazar
 741.jpg|Abolladura|Maletero|Reparar
 741.jpg|Abolladura|Guardabarros trasero derecho|Reparar
+741.jpg|Rotura|Luz trasera derecho|Reemplazar
 742.jpg|Abolladura|Parachoques delantero|Reparar
 743.jpg|Rotura|Ventana delantera izquierda|Reemplazar
 744.jpg|Rotura|Rueda |Reparar
 745.jpg|Rotura|Parabrisas delantero|Reemplazar
-746.jpg|Deformación|Parachoques delantero|Reemplazar
-746.jpg|Rotura|Faros izquierdo|Reemplazar
-746.jpg|Deformación|Capó |Reparar
 746.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+746.jpg|Deformación|Parachoques delantero|Reemplazar
+746.jpg|Deformación|Capó |Reparar
+746.jpg|Rotura|Faros izquierdo|Reemplazar
 747.jpg|Rotura|Rueda |Reparar
+748.jpg|Abolladura|Capó |Reparar
 748.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 748.jpg|Deformación|Parachoques delantero|Reparar
-748.jpg|Rotura|Faros derecho|Reemplazar
-748.jpg|Abolladura|Capó |Reparar
 748.jpg|Desprendimiento|Rueda |Reparar
+748.jpg|Rotura|Faros derecho|Reemplazar
 749.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 750.jpg|Abolladura|Marco de las puertas|Reparar
 750.jpg|Abolladura|Techo |Reparar
 751.jpg|Fractura|Parachoques trasero|Reparar
 752.jpg|Abolladura|Parachoques trasero|Reparar
 753.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+753.jpg|Abolladura|Capó |Reparar
 753.jpg|Rotura|Parachoques delantero|Reparar
 753.jpg|Rotura|Faros derecho|Reemplazar
-753.jpg|Abolladura|Capó |Reparar
 754.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 754.jpg|Abolladura|Parachoques delantero|Reparar
 755.jpg|Fractura|Parachoques trasero|Reparar
 756.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 756.jpg|Abolladura|Parachoques delantero|Reparar
-756.jpg|Rotura|Faros izquierdo|Reemplazar
 756.jpg|Abolladura|Puerta delantera izquierda|Reparar
+756.jpg|Rotura|Faros izquierdo|Reemplazar
 757.jpg|Abolladura|Parachoques trasero|Reparar
 758.jpg|Desprendimiento|Parachoques delantero|Reparar
 758.jpg|Desprendimiento|Guardabarros delantero derecho |Reparar
@@ -1198,17 +1198,17 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 759.jpg|Rayón|Parachoques trasero|Reparar
 760.jpg|Rotura|Parabrisas delantero|Reemplazar
 761.jpg|Abolladura|Parachoques delantero|Reparar
-762.jpg|Rotura|Faros derecho|Reemplazar
+762.jpg|Abolladura|Capó |Reparar
 762.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 762.jpg|Deformación|Parachoques delantero|Reemplazar
-762.jpg|Abolladura|Capó |Reparar
+762.jpg|Rotura|Faros derecho|Reemplazar
 763.jpg|Abolladura|Guardabarros delantero derecho |Reparar
-764.jpg|Rayón|Parachoques delantero|Reparar
 764.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+764.jpg|Rayón|Parachoques delantero|Reparar
 765.jpg|Abolladura|Capó |Reparar
 765.jpg|Abolladura|Parachoques delantero|Reparar
-766.jpg|Rayón|Parachoques delantero|Reparar
 766.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+766.jpg|Rayón|Parachoques delantero|Reparar
 767.jpg|Desprendimiento|Parachoques delantero|Reparar
 768.jpg|Rotura|Rueda |Reparar
 769.jpg|Rayón|Puerta trasera derecha|Reparar
@@ -1221,17 +1221,17 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 774.jpg|Rayón|Parachoques trasero|Reparar
 775.jpg|Rotura|Parabrisas delantero|Reparar
 776.jpg|Fractura|Parachoques trasero|Reparar
-777.jpg|Rayón|Parachoques trasero|Reparar
 777.jpg|Abolladura|Parachoques trasero|Reparar
+777.jpg|Rayón|Parachoques trasero|Reparar
 777.jpg|Rotura|Luz trasera derecho|Reemplazar
 778.jpg|Abolladura|Parachoques trasero|Reparar
 778.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 779.jpg|Abolladura|Parachoques trasero|Reparar
 780.jpg|Rayón|Guardabarros delantero derecho |Reparar
 781.jpg|Rayón|Parachoques trasero|Reparar
+782.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 782.jpg|Deformación|Puerta trasera derecha|Reparar
 782.jpg|Deformación|Puerta delantera derecha|Reparar
-782.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 782.jpg|Deformación|Moldura puerta trasera derecha|Reemplazar
 783.jpg|Rayón|Parachoques trasero|Reparar
 784.jpg|Abolladura|Puerta delantera izquierda|Reparar
@@ -1241,10 +1241,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 786.jpg|Deformación|Puerta delantera derecha|Reparar
 787.jpg|Rotura|Luz trasera derecho|Reemplazar
 788.jpg|Abolladura|Guardabarros trasero derecho|Reparar
-789.jpg|Fractura|Parachoques delantero|Reparar
-789.jpg|Rotura|Faros derecho|Reemplazar
 789.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 789.jpg|Abolladura|Capó |Reparar
+789.jpg|Fractura|Parachoques delantero|Reparar
+789.jpg|Rotura|Faros derecho|Reemplazar
 790.jpg|Rayón|Puerta delantera derecha|Reparar
 790.jpg|Rayón|Guardabarros delantero derecho |Reparar
 791.jpg|Rayón|Puerta delantera derecha|Reparar
@@ -1253,28 +1253,28 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 793.jpg|Fractura|Parachoques delantero|Reparar
 793.jpg|Rotura|Faros izquierdo|Reemplazar
 793.jpg|Rotura|Antiniebla delantero izquierdo|Reemplazar
+794.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 794.jpg|Desprendimiento|Espejo lateral derecho|Reemplazar
 794.jpg|Rayón|Puerta delantera derecha|Reparar
-794.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 794.jpg|Rayón|Parachoques delantero|Reparar
 795.jpg|Abolladura|Puerta trasera izquierda|Reparar
 795.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 796.jpg|Desprendimiento|Parachoques trasero|Reparar
 797.jpg|Rotura|Parabrisas trasero|Reemplazar
-798.jpg|Rotura|Luz trasera derecho|Reemplazar
 798.jpg|Abolladura|Parachoques trasero|Reparar
+798.jpg|Rotura|Luz trasera derecho|Reemplazar
 799.jpg|Rotura|Parabrisas trasero|Reemplazar
 800.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 800.jpg|Rayón|Parachoques delantero|Reparar
 801.jpg|Abolladura|Puerta delantera izquierda|Reparar
 801.jpg|Abolladura|Puerta trasera izquierda|Reparar
-801.jpg|Desprendimiento|Manija izquierda|Reemplazar
 801.jpg|Deformación|Moldura puerta delantera izquierda|Reemplazar
+801.jpg|Desprendimiento|Manija izquierda|Reemplazar
 801.jpg|Desprendimiento|Moldura puerta trasera izquierda|Reemplazar
-802.jpg|Desprendimiento|Parachoques delantero|Reemplazar
-802.jpg|Rotura|Faros derecho|Reemplazar
 802.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 802.jpg|Abolladura|Capó |Reparar
+802.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+802.jpg|Rotura|Faros derecho|Reemplazar
 803.jpg|Rayón|Parachoques delantero|Reparar
 804.jpg|Abolladura|Parachoques trasero|Reparar
 805.jpg|Rotura|Parabrisas delantero|Reemplazar
@@ -1296,18 +1296,18 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 817.jpg|Rayón|Parachoques delantero|Reparar
 817.jpg|Rayón|Guardabarros delantero derecho |Reparar
 818.jpg|Deformación|Marco de las puertas|Reparar
-819.jpg|Rotura|Faros derecho|Reemplazar
 819.jpg|Abolladura|Parachoques delantero|Reparar
 819.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 819.jpg|Abolladura|Capó |Reparar
+819.jpg|Rotura|Faros derecho|Reemplazar
 820.jpg|Rotura|Rueda |Reparar
-821.jpg|Rotura|Rueda |Reparar
 821.jpg|Rayón|Parachoques trasero|Reparar
+821.jpg|Rotura|Rueda |Reparar
 822.jpg|Rayón|Parachoques delantero|Reparar
 822.jpg|Rotura|Luz indicadora delantera izquierda|Reemplazar
+823.jpg|Abolladura|Capó |Reparar
 823.jpg|Rotura|Faros izquierdo|Reemplazar
 823.jpg|Rotura|Parachoques delantero|Reparar
-823.jpg|Abolladura|Capó |Reparar
 824.jpg|Abolladura|Parachoques delantero|Reparar
 825.jpg|Rayón|Parachoques delantero|Reparar
 826.jpg|Rayón|Parachoques trasero|Reparar
@@ -1318,36 +1318,36 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 831.jpg|Rotura|Rueda |Reparar
 832.jpg|Rayón|Parachoques delantero|Reparar
 833.jpg|Rayón|Parachoques trasero|Reparar
-834.jpg|Rotura|Parabrisas delantero|Reemplazar
 834.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 834.jpg|Abolladura|Capó |Reparar
+834.jpg|Rotura|Parabrisas delantero|Reemplazar
 835.jpg|Abolladura|Puerta trasera derecha|Reparar
 835.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 835.jpg|Abolladura|Marco de las puertas|Reparar
 836.jpg|Abolladura|Puerta delantera derecha|Reparar
 836.jpg|Abolladura|Puerta trasera derecha|Reparar
 836.jpg|Rayón|Marco de las puertas|Reparar
+837.jpg|Abolladura|Capó |Reparar
 837.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
 837.jpg|Deformación|Parachoques delantero|Reemplazar
 837.jpg|Rotura|Faros izquierdo|Reemplazar
-837.jpg|Abolladura|Capó |Reparar
 838.jpg|Abolladura|Marco de las puertas|Reparar
 838.jpg|Abolladura|Puerta delantera derecha|Reparar
 839.jpg|Rayón|Parabrisas delantero|Reparar
-840.jpg|Rayón|Parachoques delantero|Reemplazar
 840.jpg|Abolladura|Guardabarros delantero izquierdo |Reemplazar
+840.jpg|Rayón|Parachoques delantero|Reemplazar
 841.jpg|Rayón|Parachoques trasero|Reemplazar
-842.jpg|Rotura|Parabrisas delantero|Reemplazar
 842.jpg|Abolladura|Capó |Reparar
 842.jpg|Abolladura|Techo |Reparar
+842.jpg|Rotura|Parabrisas delantero|Reemplazar
 843.jpg|Rayón|Parachoques delantero|Reparar
 843.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 844.jpg|Abolladura|Puerta delantera derecha|Reparar
 845.jpg|Desprendimiento|Parachoques delantero|Reparar
-846.jpg|Rotura|Rueda |Reparar
-846.jpg|Rayón|Parachoques trasero|Reparar
 846.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 846.jpg|Abolladura|Puerta trasera izquierda|Reparar
+846.jpg|Rayón|Parachoques trasero|Reparar
+846.jpg|Rotura|Rueda |Reparar
 847.jpg|Rayón|Parachoques delantero|Reparar
 848.jpg|Rotura|Parabrisas delantero|Reemplazar
 849.jpg|Abolladura|Parachoques delantero|Reparar
@@ -1355,44 +1355,44 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 850.jpg|Abolladura|Puerta trasera derecha|Reparar
 851.jpg|Rotura|Parabrisas delantero|Reemplazar
 852.jpg|Rayón|Parachoques delantero|Reparar
-853.jpg|Rotura|Faros derecho|Reemplazar
 853.jpg|Fractura|Parachoques delantero|Reparar
+853.jpg|Rotura|Faros derecho|Reemplazar
 854.jpg|Abolladura|Puerta delantera izquierda|Reparar
-855.jpg|Fractura|Parachoques trasero|Reparar
 855.jpg|Abolladura|Maletero|Reparar
+855.jpg|Fractura|Parachoques trasero|Reparar
 856.jpg|Rotura|Parabrisas delantero|Reemplazar
 857.jpg|Rayón|Guardabarros trasero derecho|Reparar
 858.jpg|Abolladura|Puerta delantera izquierda|Reparar
 858.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
-858.jpg|Desprendimiento|Luz indicadora delantera izquierda|Reemplazar
 858.jpg|Abolladura|Marco de las puertas|Reparar
+858.jpg|Desprendimiento|Luz indicadora delantera izquierda|Reemplazar
 858.jpg|Rayón|Puerta trasera izquierda|Reparar
 859.jpg|Rotura|Rueda |Reparar
-860.jpg|Rotura|Faros derecho|Reemplazar
+860.jpg|Abolladura|Parachoques delantero|Reparar
+860.jpg|Abolladura|Marco de la ventana|Reparar
 860.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
 860.jpg|Deformación|Capó |Reemplazar
-860.jpg|Abolladura|Parachoques delantero|Reparar
-860.jpg|Rotura|Parabrisas delantero|Reemplazar
-860.jpg|Abolladura|Marco de la ventana|Reparar
 860.jpg|Desprendimiento|Espejo lateral derecho|Reemplazar
+860.jpg|Rotura|Faros derecho|Reemplazar
+860.jpg|Rotura|Parabrisas delantero|Reemplazar
 861.jpg|Abolladura|Parachoques trasero|Reparar
-862.jpg|Rotura|Parabrisas delantero|Reemplazar
 862.jpg|Abolladura|Marco de la ventana|Reparar
+862.jpg|Rotura|Parabrisas delantero|Reemplazar
 863.jpg|Rotura|Parabrisas delantero|Reemplazar
 864.jpg|Rotura|Parabrisas delantero|Reemplazar
 865.jpg|Rayón|Guardabarros delantero derecho |Reparar
 865.jpg|Rayón|Parachoques delantero|Reparar
 866.jpg|Rotura|Luz trasera derecho|Reemplazar
 867.jpg|Rayón|Parachoques delantero|Reparar
-868.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 868.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
-869.jpg|Rotura|Faros izquierdo|Reemplazar
+868.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 869.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 869.jpg|Rayón|Parachoques delantero|Reparar
+869.jpg|Rotura|Faros izquierdo|Reemplazar
 870.jpg|Fractura|Parachoques delantero|Reparar
 871.jpg|Abolladura|Capó |Reparar
-872.jpg|Deformación|Guardabarros trasero derecho|Reemplazar
 872.jpg|Abolladura|Parabrisas trasero|Reparar
+872.jpg|Deformación|Guardabarros trasero derecho|Reemplazar
 873.jpg|Abolladura|Puerta trasera izquierda|Reparar
 874.jpg|Rotura|Parabrisas delantero|Reemplazar
 875.jpg|Abolladura|Parachoques trasero|Reparar
@@ -1405,22 +1405,22 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 882.jpg|Rayón|Parachoques delantero|Reparar
 882.jpg|Rayón|Guardabarros delantero derecho |Reparar
 883.jpg|Abolladura|Puerta trasera izquierda|Reparar
-883.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 883.jpg|Abolladura|Puerta delantera izquierda|Reparar
 883.jpg|Abolladura|Marco de las puertas|Reparar
+883.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 884.jpg|Rotura|Rueda |Reparar
 885.jpg|Rayón|Parachoques trasero|Reparar
 886.jpg|Abolladura|Puerta delantera izquierda|Reparar
 886.jpg|Abolladura|Puerta trasera izquierda|Reparar
 887.jpg|Desprendimiento|Parachoques delantero|Reemplazar
-888.jpg|Rotura|Faros derecho|Reparar
 888.jpg|Abolladura|Capó |Reparar
 888.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+888.jpg|Rotura|Faros derecho|Reparar
 889.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
-889.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 889.jpg|Fractura|Parachoques trasero|Reparar
-890.jpg|Desprendimiento|Guardabarros delantero izquierdo |Reemplazar
+889.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 890.jpg|Abolladura|Parachoques delantero|Reparar
+890.jpg|Desprendimiento|Guardabarros delantero izquierdo |Reemplazar
 890.jpg|Rayón|Faros izquierdo|Reparar
 891.jpg|Rayón|Parachoques delantero|Reparar
 892.jpg|Rotura|Rueda |Reparar
@@ -1434,12 +1434,12 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 898.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 898.jpg|Rotura|Maletero|Reparar
 899.jpg|Rayón|Parachoques trasero|Reparar
-900.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 900.jpg|Abolladura|Maletero|Reparar
 900.jpg|Abolladura|Parachoques trasero|Reparar
+900.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 901.jpg|Rotura|Ventanilla trasera izquierda      |Reemplazar
-902.jpg|Rotura|Parachoques trasero|Reparar
 902.jpg|Abolladura|Maletero|Reparar
+902.jpg|Rotura|Parachoques trasero|Reparar
 903.jpg|Abolladura|Parachoques delantero|Reparar
 904.jpg|Rayón|Puerta trasera izquierda|Reparar
 904.jpg|Rayón|Puerta delantera izquierda|Reparar
@@ -1450,10 +1450,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 908.jpg|Abolladura|Parachoques trasero|Reparar
 909.jpg|Rotura|Parabrisas delantero|Reemplazar
 910.jpg|Rotura|Parabrisas delantero|Reemplazar
-911.jpg|Deformación|Puerta delantera derecha|Reemplazar
-911.jpg|Deformación|Puerta trasera derecha|Reemplazar
 911.jpg|Abolladura|Moldura puerta delantera derecha|Reparar
 911.jpg|Abolladura|Puerta trasera derecha|Reparar
+911.jpg|Deformación|Puerta delantera derecha|Reemplazar
+911.jpg|Deformación|Puerta trasera derecha|Reemplazar
 912.jpg|Rotura|Parabrisas delantero|Reemplazar
 913.jpg|Rotura|Parabrisas delantero|Reemplazar
 914.jpg|Rotura|Rueda |Reparar
@@ -1462,10 +1462,10 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 916.jpg|Fractura|Faros derecho|Reemplazar
 917.jpg|Fractura|Luz trasera izquierdo|Reemplazar
 917.jpg|Rayón|Maletero|Reparar
+918.jpg|Deformación|Capó |Reparar
+918.jpg|Desprendimiento|Rejilla, parrilla|Reemplazar
 918.jpg|Fractura|Parachoques delantero|Reparar
 918.jpg|Fractura|Faros izquierdo|Reemplazar
-918.jpg|Desprendimiento|Rejilla, parrilla|Reemplazar
-918.jpg|Deformación|Capó |Reparar
 918.jpg|Fractura|Parabrisas delantero|Reemplazar
 919.jpg|Rayón|Parachoques delantero|Reparar
 920.jpg|Rayón|Parachoques delantero|Reparar
@@ -1473,73 +1473,73 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 922.jpg|Rayón|Parachoques delantero|Reparar
 923.jpg|Abolladura|Parachoques delantero|Reparar
 923.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
-924.jpg|Rotura|Rueda |Reparar
 924.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 924.jpg|Abolladura|Puerta delantera izquierda|Reparar
-925.jpg|Rotura|Faros izquierdo|Reemplazar
+924.jpg|Rotura|Rueda |Reparar
 925.jpg|Abolladura|Parachoques delantero|Reparar
 925.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+925.jpg|Rotura|Faros izquierdo|Reemplazar
 926.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
 926.jpg|Abolladura|Parachoques delantero|Reparar
-926.jpg|Rotura|Faros izquierdo|Reemplazar
 926.jpg|Abolladura|Capó |Reparar
+926.jpg|Rotura|Faros izquierdo|Reemplazar
 927.jpg|Rayón|Puerta trasera izquierda|Reparar
 928.jpg|Rotura|Parabrisas delantero|Reemplazar
 929.jpg|Abolladura|Puerta trasera izquierda|Reparar
 930.jpg|Rayón|Parachoques delantero|Reparar
 931.jpg|Rayón|Parachoques trasero|Reparar
-932.jpg|Desprendimiento|Guardabarros delantero derecho |Reparar
 932.jpg|Abolladura|Capó |Reparar
+932.jpg|Desprendimiento|Guardabarros delantero derecho |Reparar
 933.jpg|Rayón|Parachoques delantero|Reparar
 933.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
 934.jpg|Fractura|Rueda |Reemplazar
 935.jpg|Rayón|Parachoques delantero|Reparar
 936.jpg|Abolladura|Parachoques delantero|Reparar
 937.jpg|Fractura|Parachoques trasero|Reparar
-938.jpg|Rotura|Parachoques delantero|Reparar
 938.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+938.jpg|Rotura|Parachoques delantero|Reparar
 938.jpg|Rotura|Faros izquierdo|Reemplazar
 939.jpg|Abolladura|Puerta trasera izquierda|Reparar
 939.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 940.jpg|Rotura|Parabrisas delantero|Reemplazar
 941.jpg|Fractura|Parachoques delantero|Reparar
 942.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
-943.jpg|Rotura|Faros derecho|Reemplazar
-943.jpg|Desprendimiento|Parachoques delantero|Reemplazar
 943.jpg|Abolladura|Guardabarros delantero derecho |Reparar
-944.jpg|Rotura|Rueda |Reparar
+943.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+943.jpg|Rotura|Faros derecho|Reemplazar
 944.jpg|Abolladura|Puerta delantera derecha|Reparar
 944.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+944.jpg|Rotura|Rueda |Reparar
 945.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
-945.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 945.jpg|Rayón|Parachoques trasero|Reparar
+945.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 946.jpg|Rotura|Parabrisas delantero|Reemplazar
 947.jpg|Rotura|Rueda |Reparar
-948.jpg|Rotura|Faros izquierdo|Reemplazar
-948.jpg|Fractura|Parachoques delantero|Reparar
 948.jpg|Abolladura|Capó |Reparar
 948.jpg|Abolladura|Rejilla, parrilla|Reparar
+948.jpg|Fractura|Parachoques delantero|Reparar
+948.jpg|Rotura|Faros izquierdo|Reemplazar
 948.jpg|Rotura|Antiniebla delantero derecho|Reemplazar
 949.jpg|Fractura|Guardabarros delantero izquierdo |Reparar
 950.jpg|Rotura|Parabrisas delantero|Reemplazar
-951.jpg|Rotura|Faros derecho|Reemplazar
-951.jpg|Desprendimiento|Parachoques delantero|Reparar
-951.jpg|Deformación|Guardabarros delantero derecho |Reparar
 951.jpg|Abolladura|Capó |Reparar
 951.jpg|Abolladura|Puerta delantera derecha|Reparar
+951.jpg|Deformación|Guardabarros delantero derecho |Reparar
+951.jpg|Desprendimiento|Parachoques delantero|Reparar
+951.jpg|Rotura|Faros derecho|Reemplazar
 952.jpg|Rayón|Parachoques delantero|Reparar
 953.jpg|Rotura|Parachoques delantero|Reparar
-954.jpg|Rotura|Parachoques delantero|Reemplazar
 954.jpg|Abolladura|Capó |Reparar
+954.jpg|Rotura|Parachoques delantero|Reemplazar
 955.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 956.jpg|Rotura|Luz trasera izquierdo|Reemplazar
-957.jpg|Rotura|Faros izquierdo|Reemplazar
-957.jpg|Fractura|Parachoques delantero|Reparar
 957.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 957.jpg|Abolladura|Capó |Reparar
+957.jpg|Fractura|Parachoques delantero|Reparar
+957.jpg|Rotura|Faros izquierdo|Reemplazar
 957.jpg|Rotura|Antiniebla delantero derecho|Reemplazar
+958.jpg|Desprendimiento|Parabrisas delantero|Reemplazar
 958.jpg|Rotura|Parachoques delantero|Reemplazar
-958.jpg|Desprendimiento|Limpiaparabrisas |Reemplazar
 959.jpg|Rotura|Faros derecho|Reemplazar
 960.jpg|Abolladura|Puerta delantera izquierda|Reparar
 961.jpg|Abolladura|Marco de las puertas|Reparar
@@ -1568,18 +1568,18 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 976.jpg|Abolladura|Guardabarros delantero derecho |Reparar
 976.jpg|Abolladura|Puerta delantera derecha|Reparar
 976.jpg|Abolladura|Marco de las puertas|Reparar
-977.jpg|Rotura|Luz trasera derecho|Reemplazar
 977.jpg|Abolladura|Guardabarros trasero derecho|Reparar
+977.jpg|Rotura|Luz trasera derecho|Reemplazar
 978.jpg|Rayón|Guardabarros trasero derecho|Reparar
 978.jpg|Rayón|Puerta trasera derecha|Reparar
 979.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
 980.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
 980.jpg|Rotura|Parabrisas trasero|Reparar
+981.jpg|Abolladura|Rejilla, parrilla|Reemplazar
 981.jpg|Deformación|Parachoques delantero|Reemplazar
-981.jpg|Rotura|Faros derecho|Reemplazar
 981.jpg|Deformación|Capó |Reemplazar
 981.jpg|Deformación|Guardabarros delantero derecho |Reemplazar
-981.jpg|Abolladura|Rejilla, parrilla|Reemplazar
+981.jpg|Rotura|Faros derecho|Reemplazar
 982.jpg|Rayón|Parachoques delantero|Reparar
 983.jpg|Rotura|Luz trasera izquierdo|Reemplazar
 984.jpg|Rotura|Rueda |Reparar
@@ -1594,9 +1594,240 @@ Imagen|Tipos de Daño|Piezas del Vehículo|Sugerencia
 993.jpg|Rayón|Parachoques delantero|Reparar
 994.jpg|Rotura|Parachoques delantero|Reparar
 995.jpg|Rotura|Faros derecho|Reemplazar
+996.jpg|Desprendimiento|Parachoques delantero|Reemplazar
 996.jpg|Rotura|Parabrisas delantero|Reemplazar
-996.jpg|Desprendimiento|Limpiaparabrisas |Reemplazar
 997.jpg|Abolladura|Guardabarros trasero derecho|Reparar
 998.jpg|Abolladura|Puerta delantera derecha|Reparar
 999.jpg|Rayón|Parachoques delantero|Reparar
 1000.jpg|Rayón|Parachoques delantero|Reparar
+1001.jpg|Abolladura|Maletero|Reparar
+1001.jpg|Fractura|Parachoques trasero|Reparar
+1001.jpg|Rotura|Luz trasera izquierdo|Reemplazar
+1002.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+1003.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+1003.jpg|Rayón|Faros derecho|Reemplazar
+1004.jpg|Fractura|Luz trasera derecho|Reemplazar
+1004.jpg|Rayón|Parachoques trasero|Reparar
+1005.jpg|Abolladura|Parachoques trasero|Reparar
+1006.jpg|Rayón|Guardabarros trasero derecho|Reparar
+1007.jpg|Abolladura|Puerta trasera izquierda|Reparar
+1008.jpg|Desprendimiento|Parachoques trasero|Reemplazar
+1009.jpg|Rayón|Parachoques delantero|Reparar
+1010.jpg|Rotura|Faros derecho|Reemplazar
+1011.jpg|Rayón|Parachoques delantero|Reparar
+1012.jpg|Rayón|Parachoques delantero|Reparar
+1013.jpg|Abolladura|Marco de las puertas|Reparar
+1014.jpg|Rayón|Parachoques delantero|Reparar
+1014.jpg|Rotura|Luz indicadora trasera derecha|Reemplazar
+1015.jpg|Abolladura|Parachoques trasero|Reparar
+1015.jpg|Abolladura|Maletero|Reparar
+1016.jpg|Rayón|Parachoques trasero|Reparar
+1017.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+1017.jpg|Abolladura|Maletero|Reparar
+1017.jpg|Desprendimiento|Parachoques trasero|Reemplazar
+1017.jpg|Rotura|Luz trasera izquierdo|Reemplazar
+1018.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
+1019.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
+1020.jpg|Rotura|Parabrisas delantero|Reemplazar
+1021.jpg|Rotura|Parachoques trasero|Reparar
+1022.jpg|Deformación|Guardabarros trasero izquierdo|Reparar
+1023.jpg|Rotura|Rueda |Reemplazar
+1024.jpg|Abolladura|Puerta delantera izquierda|Reparar
+1025.jpg|Rotura|Parabrisas delantero|Reemplazar
+1026.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+1027.jpg|Rotura|Parabrisas delantero|Reemplazar
+1028.jpg|Abolladura|Guardabarros trasero derecho|Reparar
+1029.jpg|Rayón|Parachoques delantero|Reparar
+1029.jpg|Rotura|Faros derecho|Reemplazar
+1030.jpg|Rayón|Parachoques delantero|Reparar
+1031.jpg|Rotura|Rueda |Reemplazar
+1032.jpg|Rotura|Ventana delantera izquierda|Reemplazar
+1033.jpg|Abolladura|Parachoques delantero|Reparar
+1033.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+1033.jpg|Rotura|Faros derecho|Reemplazar
+1033.jpg|Rotura|Rueda |Reemplazar
+1034.jpg|Deformación|Guardabarros delantero derecho |Reparar
+1034.jpg|Rotura|Faros izquierdo|Reemplazar
+1035.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1035.jpg|Rotura|Faros izquierdo|Reemplazar
+1036.jpg|Rotura|Rueda |Reparar
+1037.jpg|Rotura|Parabrisas trasero|Reemplazar
+1038.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
+1038.jpg|Rotura|Parachoques delantero|Reemplazar
+1038.jpg|Rotura|Faros izquierdo|Reemplazar
+1039.jpg|Rayón|Parachoques trasero|Reparar
+1040.jpg|Abolladura|Puerta delantera izquierda|Reparar
+1040.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1040.jpg|Rotura|Marco de las puertas|Reparar
+1041.jpg|Rotura|Parabrisas delantero|Reemplazar
+1042.jpg|Rotura|Rueda |Reparar
+1043.jpg|Rayón|Parachoques delantero|Reparar
+1044.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+1044.jpg|Rotura|Luz trasera izquierdo|Reemplazar
+1045.jpg|Abolladura|Parachoques trasero|Reparar
+1046.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+1046.jpg|Rotura|Espejo lateral derecho|Reemplazar
+1046.jpg|Rotura|Luz indicadora delantera derecha|Reemplazar
+1047.jpg|Rayón|Parachoques trasero|Reparar
+1048.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1048.jpg|Abolladura|Marco de las puertas|Reparar
+1048.jpg|Desprendimiento|Puerta delantera izquierda|Reemplazar
+1048.jpg|Rotura|Rueda |Reparar
+1049.jpg|Rotura|Parabrisas delantero|Reemplazar
+1050.jpg|Rotura|Rueda |Reparar
+1051.jpg|Rayón|Parachoques trasero|Reparar
+1052.jpg|Abolladura|Parachoques trasero|Reparar
+1052.jpg|Abolladura|Maletero|Reparar
+1052.jpg|Rotura|Luz trasera izquierdo|Reemplazar
+1053.jpg|Rayón|Parachoques delantero|Reparar
+1054.jpg|Abolladura|Puerta delantera izquierda|Reparar
+1054.jpg|Deformación|Capó |Reemplazar
+1054.jpg|Rotura|Espejo lateral izquierdo|Reemplazar
+1054.jpg|Rotura|Ventanilla trasera izquierda      |Reemplazar
+1055.jpg|Abolladura|Puerta delantera izquierda|Reparar
+1055.jpg|Deformación|Puerta trasera izquierda|Reemplazar
+1056.jpg|Abolladura|Capó |Reparar
+1056.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+1057.jpg|Abolladura|Parachoques delantero|Reparar
+1057.jpg|Rotura|Luz indicadora delantera izquierda|Reemplazar
+1058.jpg|Rotura|Parabrisas delantero|Reemplazar
+1059.jpg|Rotura|Parabrisas delantero|Reemplazar
+1060.jpg|Rayón|Puerta trasera izquierda|Reparar
+1061.jpg|Rayón|Parachoques delantero|Reparar
+1062.jpg|Desprendimiento|Rejilla, parrilla|Reparar
+1062.jpg|Rotura|Parachoques delantero|Reparar
+1062.jpg|Rotura|Faros derecho|Reemplazar
+1062.jpg|Rotura|Faros izquierdo|Reemplazar
+1062.jpg|Rotura|Parabrisas delantero|Reemplazar
+1063.jpg|Rotura|Parabrisas delantero|Reemplazar
+1064.jpg|Rayón|Parachoques trasero|Reparar
+1065.jpg|Rayón|Parachoques delantero|Reparar
+1066.jpg|Abolladura|Techo |Reparar
+1066.jpg|Abolladura|Marco de la ventana|Reparar
+1066.jpg|Rotura|Parabrisas delantero|Reemplazar
+1067.jpg|Rotura|Parabrisas delantero|Reemplazar
+1068.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+1068.jpg|Desprendimiento|Moldura puerta delantera derecha|Reemplazar
+1069.jpg|Abolladura|Parachoques delantero|Reparar
+1069.jpg|Rotura|Faros derecho|Reemplazar
+1070.jpg|Rayón|Parachoques delantero|Reparar
+1071.jpg|Rotura|Luz trasera derecho|Reemplazar
+1072.jpg|Rotura|Parabrisas delantero|Reemplazar
+1073.jpg|Rayón|Parachoques delantero|Reparar
+1074.jpg|Deformación|Guardabarros delantero izquierdo |Reemplazar
+1074.jpg|Rotura|Faros izquierdo|Reemplazar
+1075.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
+1075.jpg|Rayón|Puerta delantera izquierda|Reparar
+1076.jpg|Rotura|Rueda |Reparar
+1077.jpg|Rotura|Parabrisas delantero|Reemplazar
+1078.jpg|Rotura|Rueda |Reparar
+1079.jpg|Rayón|Parachoques trasero|Reparar
+1079.jpg|Rotura|Luz trasera derecho|Reemplazar
+1080.jpg|Abolladura|Parachoques trasero|Reparar
+1081.jpg|Rayón|Parachoques delantero|Reparar
+1082.jpg|Abolladura|Capó |Reparar
+1082.jpg|Deformación|Parachoques delantero|Reparar
+1082.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
+1082.jpg|Rotura|Faros izquierdo|Reemplazar
+1083.jpg|Rayón|Parachoques trasero|Reparar
+1083.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
+1084.jpg|Rotura|Luz trasera derecho|Reemplazar
+1085.jpg|Rayón|Parachoques delantero|Reparar
+1086.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1086.jpg|Abolladura|Parachoques delantero|Reparar
+1086.jpg|Rotura|Faros izquierdo|Reemplazar
+1087.jpg|Rotura|Parabrisas delantero|Reemplazar
+1088.jpg|Deformación|Guardabarros delantero izquierdo |Reparar
+1088.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+1088.jpg|Rotura|Faros izquierdo|Reemplazar
+1089.jpg|Rotura|Faros derecho|Reemplazar
+1089.jpg|Rotura|Parachoques delantero|Reparar
+1090.jpg|Abolladura|Parachoques trasero|Reparar
+1091.jpg|Rayón|Parachoques delantero|Reparar
+1092.jpg|Rayón|Parachoques delantero|Reparar
+1093.jpg|Rayón|Parachoques delantero|Reparar
+1094.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
+1095.jpg|Rotura|Ventana trasera derecha|Reemplazar
+1096.jpg|Abolladura|Capó |Reparar
+1096.jpg|Rotura|Faros derecho|Reemplazar
+1097.jpg|Rayón|Parachoques delantero|Reparar
+1098.jpg|Rotura|Parabrisas delantero|Reemplazar
+1099.jpg|Abolladura|Marco de las puertas|Reparar
+1099.jpg|Abolladura|Puerta trasera izquierda|Reparar
+1099.jpg|Deformación|Puerta delantera izquierda|Reemplazar
+1100.jpg|Abolladura|Parachoques delantero|Reparar
+1100.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1100.jpg|Rotura|Faros izquierdo|Reemplazar
+1101.jpg|Rotura|Parabrisas trasero|Reemplazar
+1102.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+1102.jpg|Rotura|Parabrisas trasero|Reemplazar
+1102.jpg|Rotura|Faros derecho|Reemplazar
+1102.jpg|Rotura|Guardabarros delantero derecho |Reemplazar
+1103.jpg|Rotura|Parabrisas delantero|Reemplazar
+1104.jpg|Rotura|Parabrisas delantero|Reemplazar
+1105.jpg|Rayón|Parachoques trasero|Reparar
+1105.jpg|Rotura|Luz trasera izquierdo|Reemplazar
+1106.jpg|Rotura|Faros derecho|Reemplazar
+1107.jpg|Rayón|Parachoques delantero|Reparar
+1108.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1108.jpg|Abolladura|Puerta delantera izquierda|Reparar
+1108.jpg|Desprendimiento|Rueda |Reemplazar
+1108.jpg|Desprendimiento|Parachoques delantero|Reemplazar
+1109.jpg|Rotura|Faros derecho|Reemplazar
+1109.jpg|Rotura|Parachoques delantero|Reparar
+1110.jpg|Abolladura|Guardabarros trasero derecho|Reparar
+1110.jpg|Fractura|Parachoques trasero|Reparar
+1111.jpg|Abolladura|Parachoques trasero|Reparar
+1112.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1112.jpg|Desprendimiento|Parachoques delantero|Reparar
+1112.jpg|Rotura|Faros izquierdo|Reemplazar
+1113.jpg|Rayón|Parachoques trasero|Reparar
+1114.jpg|Rotura|Faros derecho|Reemplazar
+1114.jpg|Rotura|Parachoques delantero|Reparar
+1115.jpg|Rayón|Parachoques delantero|Reparar
+1116.jpg|Rayón|Parachoques delantero|Reparar
+1116.jpg|Rotura|Faros izquierdo|Reemplazar
+1117.jpg|Rayón|Parachoques delantero|Reparar
+1117.jpg|Rotura|Faros derecho|Reemplazar
+1118.jpg|Rayón|Guardabarros delantero izquierdo |Reparar
+1118.jpg|Rayón|Puerta trasera izquierda|Reparar
+1119.jpg|Abolladura|Parachoques delantero|Reparar
+1120.jpg|Abolladura|Parachoques delantero|Reparar
+1121.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1121.jpg|Abolladura|Guardabarros delantero izquierdo |Reparar
+1122.jpg|Abolladura|Parachoques trasero|Reparar
+1123.jpg|Abolladura|Parachoques trasero|Reparar
+1124.jpg|Rotura|Faros derecho|Reemplazar
+1124.jpg|Rotura|Parachoques delantero|Reparar
+1125.jpg|Rayón|Guardabarros delantero derecho |Reparar
+1125.jpg|Rayón|Puerta delantera derecha|Reparar
+1126.jpg|Abolladura|Techo |Reparar
+1126.jpg|Abolladura|Marco de la ventana|Reparar
+1127.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+1127.jpg|Abolladura|Guardabarros delantero derecho |Reparar
+1127.jpg|Rayón|Parachoques delantero|Reparar
+1128.jpg|Rayón|Guardabarros delantero derecho |Reparar
+1129.jpg|Abolladura|Puerta delantera derecha|Reparar
+1130.jpg|Rayón|Parachoques trasero|Reparar
+1131.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+1132.jpg|Rayón|Parachoques delantero|Reparar
+1133.jpg|Abolladura|Maletero|Reparar
+1134.jpg|Rotura|Rueda |Reparar
+1135.jpg|Fractura|Parachoques delantero|Reparar
+1136.jpg|Abolladura|Guardabarros trasero izquierdo|Reparar
+1136.jpg|Deformación|Puerta trasera izquierda|Reemplazar
+1136.jpg|Deformación|Marco de las puertas|Reparar
+1137.jpg|Rayón|Guardabarros trasero izquierdo|Reparar
+1138.jpg|Rayón|Parachoques trasero|Reparar
+1139.jpg|Abolladura|Maletero|Reparar
+1140.jpg|Rotura|Faros derecho|Reemplazar
+1140.jpg|Rotura|Parachoques delantero|Reparar
+1141.jpg|Rotura|Ventana delantera derecha|Reemplazar
+1142.jpg|Rotura|Rueda |Reparar
+1143.jpg|Rotura|Parachoques trasero|Reparar
+1143.jpg|Rotura|Guardabarros trasero derecho|Reparar
+1144.jpg|Abolladura|Puerta trasera derecha|Reparar
+1144.jpg|Abolladura|Puerta delantera derecha|Reparar
+1145.jpg|Abolladura|Puerta delantera derecha|Reparar
+1145.jpg|Deformación|Guardabarros delantero derecho |Reparar
+1145.jpg|Rotura|Parabrisas delantero|Reemplazar
